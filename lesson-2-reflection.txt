@@ -11,6 +11,7 @@ using git add and file that has been changed
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+when i try to change something that i am not sure it will work. branches make more comfortable changing without worried it break the program
 
 How do the diagrams help you visualize the branch structure?
 
